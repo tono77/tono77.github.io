@@ -1,0 +1,33 @@
+.logo{
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.image_carousel{
+  max-width: 1550px;
+  max-height: 680px;
+  margin: auto;
+}
+
+.no-border{
+  border:0;
+  border-style: none;
+}
+
+.img_center{
+  padding-top: 50px;
+  margin: auto;
+}
+
+p, li, h3{
+  font-family: 'Raleway', sans-serif;
+}
+
+.fa-facebook, .fa-twitter, .fa-instagram{
+font-size: 50px;
+padding: 10px;
+}
+
+.space {
+  padding: 20px 0 20px 0;
+}
